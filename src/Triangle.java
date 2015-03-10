@@ -69,7 +69,7 @@ public class Triangle
  }
 
  public static void main( String[] args ){
-   Triangle triangle = new Triangle(5,5,3);
+   Triangle triangle = new Triangle(5,4,3);
    
    System.out.println("A triangle" + triangle.toString());
    System.out.println("The color is" + triangle.getColor());
